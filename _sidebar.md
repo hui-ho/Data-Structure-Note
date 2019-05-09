@@ -2,3 +2,4 @@
 
 * [线性表结构](linear_list/)
   * [数组](linear_list/array)
+  * [链表](linear_list/linked_list)
