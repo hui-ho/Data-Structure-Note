@@ -6,3 +6,6 @@
   * [2.3. 特殊的线性表：栈](linear_list/stack)
   * [2.4. 特殊的线性表：队列](linear_list/queue)
   * [2.5. 编程技巧：递归](linear_list/recursive)
+
+* [3. 排序算法](sorting_algorithm/)
+  * [3.1. 冒泡排序](sorting_algorithm/bubble_sort)
