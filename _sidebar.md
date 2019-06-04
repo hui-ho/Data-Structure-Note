@@ -9,3 +9,4 @@
 
 * [3. 排序算法](sorting_algorithm/)
   * [3.1. 冒泡排序](sorting_algorithm/bubble_sort)
+  * [3.2. 插入排序](sorting_algorithm/insert_sort)
