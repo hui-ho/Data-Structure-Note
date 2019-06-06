@@ -12,3 +12,4 @@
   * [3.2. 插入排序](sorting_algorithm/insertion_sort)
   * [3.3. 选择排序](sorting_algorithm/selection_sort)
   * [3.4. 归并排序](sorting_algorithm/merge_sort)
+  * [3.5. 快速排序](sorting_algorithm/quick_sort)
