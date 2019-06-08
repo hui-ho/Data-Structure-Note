@@ -17,3 +17,4 @@
 * [4. 查找算法](search_algorithm/)
   * [4.1. 二分查找](search_algorithm/binary_search)
   * [4.2. 二分查找的变形版本（上）](search_algorithm/binary_search_extend_part_1)
+  * [4.3. 二分查找的变形版本（下）](search_algorithm/binary_search_extend_part_2)
