@@ -21,3 +21,6 @@
   * [4.4. 索引查找（一）：稠密索引](search_algorithm/dense_index_search.md)
   * [4.5. 索引查找（二）：分块索引](search_algorithm/block_index_search.md)
   * [4.6. 索引查找（三）：倒排索引](search_algorithm/inverted_index.md)
+
+* [5. 散列表](hash_table/)
+  * [5.1. 概述](hash_table/overview)
